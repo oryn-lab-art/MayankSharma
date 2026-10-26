@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6E40C9&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=6E40C9)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=oryn-lab-art&label=Profile%20Views&color=6E40C9&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/oryn-lab-art?label=Followers&style=flat-square&color=6E40C9)](https://github.com/oryn-lab-art)
 
 </div>
 
@@ -35,7 +35,7 @@ const mayank = {
 - 🎨 Love blending **code + design** for pixel-perfect products
 - 🌱 Always learning & exploring new technologies
 - 💬 Ask me about **React, Node.js, UI/UX, Graphic Design**
-- 📫 How to reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)**
+- 📫 How to reach me: **[Mayank.by.heart@gmail.com](mailto:Mayank.by.heart@gmail.com)**
 
 ---
 
@@ -91,11 +91,11 @@ const mayank = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oryn-lab-art&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oryn-lab-art&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -103,7 +103,7 @@ const mayank = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=oryn-lab-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
